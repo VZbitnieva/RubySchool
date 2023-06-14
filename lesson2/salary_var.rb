@@ -2,4 +2,7 @@
 
 # display of simple values in the console
 puts 'Salary'
-puts 1000
+puts 2000
+
+puts 'Tax'
+puts 0.4
