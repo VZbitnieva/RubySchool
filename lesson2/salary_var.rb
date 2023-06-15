@@ -1,8 +1,15 @@
 # frozen_string_literal: true
 
-# display of simple values in the console
+# variables:
+salary = 15_000
+tax = 0.195
+
+# output value
 puts 'Salary'
-puts 2000
+puts salary
 
 puts 'Tax'
-puts 0.4
+puts tax
+
+puts 'Final'
+puts salary - salary * tax
